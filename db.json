@@ -1,0 +1,34 @@
+{
+  "allStudents": [
+    {
+      "id": 1,
+      "fname": "rtu",
+      "lname": "rty",
+      "uname": "eryhert",
+      "addr1": "ty",
+      "addr2": "rth",
+      "city": "rty",
+      "state": "klll",
+      "zip": "455",
+      "terms": true,
+      "course": "Python Django",
+      "joinDate": "2024-02-08",
+      "appStatus": "Registrationcomplete"
+    },
+    {
+      "id": 2,
+      "fname": "Aysha",
+      "lname": "Naz",
+      "uname": "ERER",
+      "addr1": "puthiyedath house, thaikkattukara.p.o,muttom, aluva",
+      "addr2": "ERGE",
+      "city": "Kochi",
+      "state": "Kerala",
+      "zip": "683106",
+      "terms": true,
+      "course": "ASP.net MVC",
+      "joinDate": "2024-02-09",
+      "appStatus": "Registrationcomplete"
+    }
+  ]
+}
